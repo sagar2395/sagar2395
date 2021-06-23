@@ -1,10 +1,46 @@
-Hello , I am @sagar2395 , currently working as Cloud Developer in TietoEvry which is located in Pune , India. 
+# Welcome to my Github
 
-- I am a Full Stack Cloud Developer who works majorly on Asp.Net Core , React and Microsoft Azure . I am also proficient in Azure DevOps set of tools for deployment
-of infrastructure and application on Azure.
+## *Who am i ?*
+My name is **Sagar Chhabra** . I have completed my BE from Computer Science and currently working as a *Cloud Developer at TietoEvry*.
+To stay connected with me, join me on [Linkedin](https://www.linkedin.com/in/sagarchhabra)
 
-- I am currenly improving my expertise in current skills while sticking to the basics . That's why i have recently created a repository @sagar2395/Datastructures-Algorithm
-for working on my DS and Algo skills.
+## *What I do?*
+I am **Cloud Developer** working on web development as well as Infrastructure deployment. 
 
-- If you have any project idea or you want my contribution in your project related to my current tech stack , you can contact me on my mail : sagar.chhabra02@gmail.com
-or you can also add me on LinkedIn : https://www.linkedin.com/sagarchhabra 
+## *What technologies do I use?*
+I have never kept myself limited to technologies. I learn new technologies as per requirements. However, few technologies that I have worked on are as follows:
+
+- .NET
+- Microsoft Azure
+- Azure Devops
+- C#
+- Terraform
+- Docker
+- SQL Server
+
+## *What am I upto nowadays?*
+- Nowadays, I am working on Datastructures and Algorithm, you can check my work [here](https://github.com/sagar2395/Datastructures-Algorithms) related to Datastructures and Algorithms , where I am working on problem solving skills using *C#* programming language.
+- I am also learning terraform and practising on deploying infrastructure using this amazing technology by Hashicorp.
+
+## Here are my Github stats :
+
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar2395&show_icons=true&theme=radical)
+
+## Also , do check top languages that I have been using 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar2395&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## *Thank you for visiting my profile . If you have any suggestions or need any help in your work that you think I can contribute to , do let me know directly on my e-mail : sagar.chhabra02@gmail.com .*
+
+
+
+
+
+
+
+
+
+
+
+
