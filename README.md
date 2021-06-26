@@ -18,6 +18,12 @@ I have never kept myself limited to technologies. I learn new technologies as pe
 - Docker
 - SQL Server
 
+## Certifications
+
+- Microsoft Azure: Azure Devops Engineer Expert
+- Microsoft Azure: Azure Administrator Associate
+- Microsoft Azure: Azure Fundamentals
+
 ## *What am I upto nowadays?*
 - Nowadays, I am working on Datastructures and Algorithm, you can check my work [here](https://github.com/sagar2395/Datastructures-Algorithms) related to Datastructures and Algorithms , where I am working on problem solving skills using *C#* programming language.
 - I am also learning terraform and practising on deploying infrastructure using this amazing technology by Hashicorp.
