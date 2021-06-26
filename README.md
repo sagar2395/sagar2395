@@ -1,11 +1,11 @@
 # Welcome to my Github
 
 ## *Who am i ?*
-My name is **Sagar Chhabra** . I have completed my BE from Computer Science and currently working as a *Cloud Developer at TietoEvry*.
+My name is **Sagar Chhabra** . I have completed my Engineering in Computer Science and currently working as a *Cloud Developer at TietoEvry*.
 To stay connected with me, join me on [Linkedin](https://www.linkedin.com/in/sagarchhabra)
 
 ## *What I do?*
-I am **Cloud Developer** working on web development as well as Infrastructure deployment. 
+I am **Cloud Developer** working on web development on Microsoft Azure Cloud. I also have proficiety in automating deployments of application and infrastructure through CI/CD tools. 
 
 ## *What technologies do I use?*
 I have never kept myself limited to technologies. I learn new technologies as per requirements. However, few technologies that I have worked on are as follows:
