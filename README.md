@@ -21,6 +21,7 @@ I have never kept myself limited to technologies. I learn new technologies as pe
 ## Certifications
 
 - Microsoft Azure: Azure Devops Engineer Expert
+- Microsoft Azure: Azure Developer Associate
 - Microsoft Azure: Azure Administrator Associate
 - Microsoft Azure: Azure Fundamentals
 
