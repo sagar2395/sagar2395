@@ -1,11 +1,13 @@
 # Welcome to my Github
 
 ## *Who am i ?*
-My name is **Sagar Chhabra** . I have completed my Engineering in Computer Science and currently working as a *Cloud Developer at TietoEvry*.
+My name is **Sagar Chhabra** . I have completed my Bachelors of Engineering in Computer Science and currently working as a *Devops Engineer at Globant*.
 To stay connected with me, join me on [Linkedin](https://www.linkedin.com/in/sagarchhabra)
 
 ## *What I do?*
-I am **Cloud Developer** working on web development on Microsoft Azure Cloud. I also have proficiety in automating deployments of application and infrastructure through CI/CD tools. 
+I am **Devops Engineer** working on web development on Microsoft Azure Cloud. I also have proficiety in automating deployments of application and infrastructure through CI/CD tools. 
+
+I am a **Devops Engineer** with expertise in deployment of infrastructure to Cloud mainly Microsoft Azure. I have experience with Terraform, ARM, Docker, Kubernetes and several other tools related to Cloud and Devops.
 
 ## *What technologies do I use?*
 I have never kept myself limited to technologies. I learn new technologies as per requirements. However, few technologies that I have worked on are as follows:
