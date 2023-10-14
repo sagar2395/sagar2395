@@ -5,19 +5,21 @@ My name is **Sagar Chhabra** . I have completed my Bachelors of Engineering in C
 To stay connected with me, join me on [Linkedin](https://www.linkedin.com/in/sagarchhabra)
 
 ## *What I do?*
-I am **Devops Engineer** working on web development on Microsoft Azure Cloud. I also have proficiety in automating deployments of application and infrastructure through CI/CD tools. 
+I am **Devops Engineer** working on Cloud and Devops technologies. I deploy infrastructure and automate the process using CI/CD tools. 
 
 I am a **Devops Engineer** with expertise in deployment of infrastructure to Cloud mainly Microsoft Azure. I have experience with Terraform, ARM, Docker, Kubernetes and several other tools related to Cloud and Devops.
 
 ## *What technologies do I use?*
 I have never kept myself limited to technologies. I learn new technologies as per requirements. However, few technologies that I have worked on are as follows:
 
-- .NET
+- Go
 - Microsoft Azure
 - Azure Devops
-- C#
+- Powershell
 - Terraform
+- Azure Bicep
 - Docker
+- Kubernetes
 - SQL Server
 
 ## Certifications
@@ -28,8 +30,8 @@ I have never kept myself limited to technologies. I learn new technologies as pe
 - Microsoft Azure: Azure Fundamentals
 
 ## *What am I upto nowadays?*
-- Nowadays, I am working on Datastructures and Algorithm, you can check my work [here](https://github.com/sagar2395/Datastructures-Algorithms) related to Datastructures and Algorithms , where I am working on problem solving skills using *C#* programming language.
-- I am also learning terraform and practising on deploying infrastructure using this amazing technology by Hashicorp.
+- I have recently learned Go language and I have started contributing to Open source projects.
+- I am learning Cloud and Software Archictecture concepts to improve scalability, availability and resilience of an application.
 
 ## Here are my Github stats :
 
