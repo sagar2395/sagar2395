@@ -28,6 +28,7 @@ I have never kept myself limited to technologies. I learn new technologies as pe
 - Microsoft Azure: Azure Developer Associate
 - Microsoft Azure: Azure Administrator Associate
 - Microsoft Azure: Azure Fundamentals
+- Amazon AWS SysOps Administrator
 
 ## *What am I upto nowadays?*
 - I have recently learned Go language and I have started contributing to Open source projects.
