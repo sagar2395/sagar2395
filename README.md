@@ -7,7 +7,7 @@ To stay connected with me, join me on [Linkedin](https://www.linkedin.com/in/sag
 ## *What I do?*
 I am **Devops Engineer** working on Cloud and Devops technologies. I deploy infrastructure and automate the process using CI/CD tools. 
 
-I am a **Devops Engineer** with expertise in deployment of infrastructure to Cloud mainly Microsoft Azure. I have experience with Terraform, ARM, Docker, Kubernetes and several other tools related to Cloud and Devops.
+I have expertise in deployment of infrastructure to Cloud mainly Microsoft Azure. I have experience with Terraform, ARM, Docker, Kubernetes and several other tools related to Cloud and Devops.
 
 ## *What technologies do I use?*
 I have never kept myself limited to technologies. I learn new technologies as per requirements. However, few technologies that I have worked on are as follows:
@@ -16,14 +16,21 @@ I have never kept myself limited to technologies. I learn new technologies as pe
 - Microsoft Azure
 - Azure Devops
 - Powershell
+- Bash
 - Terraform
 - Azure Bicep
 - Docker
 - Kubernetes
+- Helm
+- ArgoCD
+- Kustomize
 - SQL Server
+- Databricks
+- Power BI
 
 ## Certifications
 
+- Certified Kubernetes Administrator 
 - Microsoft Azure: Azure Devops Engineer Expert
 - Microsoft Azure: Azure Developer Associate
 - Microsoft Azure: Azure Administrator Associate
